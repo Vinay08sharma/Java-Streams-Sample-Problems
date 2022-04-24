@@ -1,0 +1,1 @@
+## Easy Sample Programs solved using Java Streams
